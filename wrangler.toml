@@ -1,0 +1,7 @@
+account_id = "ccef66838ed7e8e7d3a95c04154d72cf"
+name = "workers-site"
+main = "workers-site/src/index.ts"
+compatibility_date = "2022-08-02"
+
+[site]
+bucket = './build'
